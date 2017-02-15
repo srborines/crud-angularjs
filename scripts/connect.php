@@ -1,6 +1,6 @@
 <?php 
 function dbConnect(){
-	$mysqli = new mysqli("localhost", "root", "user", "pass");
+	$mysqli = new mysqli("localhost", "root", "pass", "database_name");
 
 	/* check connection */
 	if (mysqli_connect_errno()) {
