@@ -26,7 +26,7 @@
   <!-- Custom CSS -->
   <link rel="stylesheet" type="text/css" href="css/style.css">
 
-  <title></title>
+  <title>Angular crud</title>
 
 </head>
 
